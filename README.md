@@ -8,3 +8,6 @@ My computer vision learning journey
 -Computer Vision Engineering
 ## Projects
 Coming soon.
+## Environment 
+- Python 3.14
+- PyTorch
