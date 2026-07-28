@@ -9,5 +9,5 @@ My computer vision learning journey
 ## Projects
 Coming soon.
 ## Environment 
-- Python 3.14
+- Python 3.11
 - PyTorch
